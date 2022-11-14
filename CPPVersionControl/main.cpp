@@ -6,6 +6,11 @@ void greet()
 	std::cout << "Welcome!\n\n";
 }
 
+void amore()
+{
+	std::cout << "Suca!\n\n";
+}
+
 void suca()
 {
 	std::cout << "Amore!\n\n";
@@ -14,5 +19,6 @@ void suca()
 int main()
 {
 	greet();
+	amore();
 	suca();
 }

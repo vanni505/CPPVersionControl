@@ -6,7 +6,13 @@ void greet()
 	std::cout << "Welcome!\n\n";
 }
 
+void amore()
+{
+	std::cout << "Suca!\n\n";
+}
+
 int main()
 {
 	greet();
+	amore();
 }
